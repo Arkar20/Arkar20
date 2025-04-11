@@ -3,5 +3,5 @@
 
 
 - 🌱 I’m currently learning: DevOps.
-- 💬 Ask me about: JavaScript, PHP, Python, Java.
+- 💬 Ask me about: JavaScript, PHP, JAVASCRIPT, PYTHON and GO.
 - 😄 Pronouns: He/Him.
